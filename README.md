@@ -48,14 +48,19 @@ A full-featured authentication system built with the MERN stack (MongoDB, Expres
 ```bash
 git clone https://github.com/yourusername/advanced-auth-mern.git
 cd advanced-auth-mern
-Backend Setup
+```
+### Backend Setup
+```bash
 npm install
 npm run dev
-Frontend Setup
+```
+### Frontend Setup
+```bash
 cd frontend
 npm install
 npm start
-Create a .env file all ref are in example file
+```
+### Create a .env file all ref are in example file
 
 
 
