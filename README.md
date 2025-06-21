@@ -1,6 +1,6 @@
 # 🔐 Advanced Authentication System - MERN Stack
 
-A full-featured authentication system built with the MERN stack (MongoDB, Express.js, React, Node.js) supporting advanced features like JWT authentication, refresh tokens, role-based access control (RBAC), and more.
+A full-featured authentication system built with the MERN stack (MongoDB, Express.js, React, Node.js) supporting advanced features like JWT authentication, refresh tokens, and more.
 
 ---
 
