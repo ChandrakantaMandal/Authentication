@@ -126,7 +126,7 @@ Runs on http://localhost:5173
  file for details.
   ## 👨‍💻 Author
   ### Chandrakanta Mandal
-  - GitHub: @ChandrakantaMandal
+  - GitHub:[ChandrakantaMandal](https://github.com/ChandrakantaMandal/Authentication)
  
 
 
